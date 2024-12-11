@@ -88,7 +88,7 @@
               "switch-network-description":
                 "You are connected to the wrong network. Please switch to the Ethereum Mainnet.",
               "switch-wallet": "Switch Wallet",
-              copyright: "© Pine.loans",
+              copyright: "© TREE.Protocol",
               dismiss: "Dismiss",
               confirm: "Confirm",
               capacity: "Capacity",
@@ -98,7 +98,7 @@
               expired: "Expired",
               start: "Start",
               "safety-message":
-                "<p><strong>NOTE</strong></p><p>There is a safety multi-sig feature where you can authorize the Pine team to manually withdraw your beloved NFT assets in case we need to pause the contract in emergency.</p>",
+                "<p><strong>NOTE</strong></p><p>There is a safety multi-sig feature where you can authorize the TREE team to manually withdraw your beloved NFT assets in case we need to pause the contract in emergency.</p>",
               support: "Support",
               "enter-amount": "Enter amount",
               "step-n": "Step %{n}",
@@ -136,7 +136,7 @@
                     {
                       title: "Connect Your Wallet",
                       description:
-                        "Connecting your wallet gives Pine read access to your NFT collection. This allows you to select an NFT to use as a collateral for securing a loan.",
+                        "Connecting your wallet gives TREE read access to your NFT collection. This allows you to select an NFT to use as a collateral for securing a loan.",
                     },
                     {
                       title: "Select NFT Collateral",
@@ -154,7 +154,7 @@
               "interest-rate": {
                 "rounded-annual-rate-title": "Rounded APR:",
                 "rounded-annual-rate-tooltip":
-                  "The actual rate that you will receive which is saved in the Pine loan pool smart contract. It may differ slightly from the rate you inputted due to rounding.",
+                  "The actual rate that you will receive which is saved in the TREE Protocol pool smart contract. It may differ slightly from the rate you inputted due to rounding.",
                 "client-rate-title": "APR to Borrowers:",
                 "client-rate-tooltip":
                   "The final rate, which includes Pine's protocol fee, that borrowers will see and pay.",
@@ -227,19 +227,19 @@
                   "pay-placeholder": "You pay",
                   "reward-placeholder": "You get",
                   "buy-action": "Buy now",
-                  "pine-unit": "Pine",
+                  "pine-unit": "TREE",
                 },
               },
               nav: {
                 pools: "Pools",
                 borrowing: "Borrowing",
                 lending: "Lending",
-                pnpl: "Pine Now Pay Later",
-                staking: "$PINE",
+                pnpl: "TREE Now Pay Later",
+                staking: "$TREE",
                 btc: "BTC",
               },
               pools: {
-                "window-title": "Pine | Pools",
+                "window-title": "TREE | Pools",
                 "no-pools": "There are no active pools at the moment.",
                 table: {
                   title: "Active Offers <em>(</em>%{num}<em>)</em>",
@@ -256,7 +256,7 @@
                     "Borrow 1000 USD worth of ETH",
                   "column-borrowing-hint-borrowing-apy":
                     "Borrowing Rewards APY",
-                  "column-borrowing-hint-earn-pine": "Earn 730 USD in PINE",
+                  "column-borrowing-hint-earn-pine": "Earn 730 USD in TREE",
                   "column-apr": "Interest",
                   "sft-floor-price-tooltip-title": "SFT (Semi-Fungible Token)",
                   "sft-floor-price-tooltip-content":
@@ -277,7 +277,7 @@
                     "Borrow 1000 USD worth of ETH",
                   "column-borrowing-hint-borrowing-apy":
                     "Borrowing Rewards APY",
-                  "column-borrowing-hint-earn-pine": "Earn 730 USD in PINE",
+                  "column-borrowing-hint-earn-pine": "Earn 730 USD in TREE",
                   "column-apy": "APY",
                   "column-interest": "Interest",
                   footnote:
@@ -325,7 +325,7 @@
                   "There are no active loans for this collection at the moment.",
                 "search-placeholder": "Search Collections...",
                 promotion: {
-                  description: "Earn up to %{num}% APY with $PINE",
+                  description: "Earn up to %{num}% APY with $TREE",
                   action: "Learn how",
                 },
                 promotionAlt: {
@@ -353,7 +353,7 @@
                 },
               },
               btc: {
-                "window-title": "Pine | BTC",
+                "window-title": "TREE | ETH",
                 "no-pools": "There are no active pools at the moment.",
                 table: {
                   title: "Active Offers <em>(</em>%{num}<em>)</em>",
@@ -370,7 +370,7 @@
                     "Borrow 1000 USD worth of ETH",
                   "column-borrowing-hint-borrowing-apy":
                     "Borrowing Rewards APY",
-                  "column-borrowing-hint-earn-pine": "Earn 730 USD in PINE",
+                  "column-borrowing-hint-earn-pine": "Earn 730 USD in TREE",
                   "column-apr": "Interest",
                   footnote:
                     "<br>*Indicative floor prices provided by NFTBank - for reference only",
@@ -412,7 +412,7 @@
                   "There are no active loans for this collection at the moment.",
                 "search-placeholder": "Search Collections...",
                 promotion: {
-                  description: "Earn up to %{num}% APY with $PINE",
+                  description: "Earn up to %{num}% APY with $TREE",
                   action: "Learn how",
                 },
                 promotionAlt: {
@@ -436,7 +436,7 @@
                 "hide-all": "Hide all",
               },
               lending: {
-                "window-title": "Pine | Lending",
+                "window-title": "TREE | Lending",
                 tabs: { pools: "Pools", loans: "Open Loans" },
                 idle: {
                   title: "Instant Liquidity Starts Here",
@@ -552,7 +552,7 @@
                   },
                 },
                 loans: {
-                  "window-title": "Pine | Lending Loans",
+                  "window-title": "TREE | Lending Loans",
                   "no-loans":
                     "There are no open loans in your pools at the moment",
                   table: {
@@ -585,7 +585,7 @@
                 "no-obligations": "No open loans, you're all good 😎",
                 "see-collaterals": "View my NFTs",
                 "see-pools": "Check supported collections",
-                "window-title": "Pine | Borrowing",
+                "window-title": "TREE | Borrowing",
                 "delay-warning":
                   "Recently transacted NFTs may take up to 5 minutes to index and appear here.",
                 "select-nft-description":
@@ -619,7 +619,7 @@
                     {
                       title: "Connect Your Wallet",
                       description:
-                        "Connecting your wallet gives Pine read access to your NFT collection. This allows you to select an NFT to use as a collateral for securing a loan.",
+                        "Connecting your wallet gives TREE read access to your NFT collection. This allows you to select an NFT to use as a collateral for securing a loan.",
                     },
                     {
                       title: "Select NFT Collateral",
@@ -683,7 +683,7 @@
                 idle: {
                   title: "Short on ETH? Don't worry!",
                   description:
-                    '<p>With <strong>Pine Now Pay Later (PNPL)</strong>, you can get a "mortgage" to help with your NFT purchases on open marketplaces. Now you will never miss a chance to buy that undervalued blue-chip NFT again because you do not have enough ETH on hand!</p><p>Follow 3 simple steps to <strong>Pine Now Pay Later</strong>.</p>',
+                    '<p>With <strong>TREE Now Pay Later (PNPL)</strong>, you can get a "mortgage" to help with your NFT purchases on open marketplaces. Now you will never miss a chance to buy that undervalued blue-chip NFT again because you do not have enough ETH on hand!</p><p>Follow 3 simple steps to <strong>TREE Now Pay Later</strong>.</p>',
                   "get-started": "Get started",
                   instructions: [
                     {
@@ -705,9 +705,9 @@
                 },
                 start: {
                   conditions:
-                    "<p><strong>NOTE</strong></p><p>PNPL aids the NFT purchase partially, so ensure that you have sufficient funds in your wallet to complete the purchase.</p><p>Once the PNPL transaction is completed successfully, the NFT becomes a collateral and remains in Pine's custody until the loan is fully repaid, upon which the NFT will be dropped to the wallet that funded the purchase initially. Standard loan conditions apply.",
+                    "<p><strong>NOTE</strong></p><p>PNPL aids the NFT purchase partially, so ensure that you have sufficient funds in your wallet to complete the purchase.</p><p>Once the PNPL transaction is completed successfully, the NFT becomes a collateral and remains in TREE's custody until the loan is fully repaid, upon which the NFT will be dropped to the wallet that funded the purchase initially. Standard loan conditions apply.",
                   description:
-                    "<p><strong>Pine Now Pay Later (PNPL)</strong> helps finance your next NFT purchase by allowing you to take out a pre-authorized loan. The borrowed amount will be used in combination with existing funds in your wallet to complete the NFT purchase in a single transaction.</p><p>To get started, simply enter the marketplace listing URL of the NFT you wish to purchase.</p>",
+                    "<p><strong>TREE Now Pay Later (PNPL)</strong> helps finance your next NFT purchase by allowing you to take out a pre-authorized loan. The borrowed amount will be used in combination with existing funds in your wallet to complete the NFT purchase in a single transaction.</p><p>To get started, simply enter the marketplace listing URL of the NFT you wish to purchase.</p>",
                   marketplaces: "Supported Marketplaces",
                   placeholder: "Enter NFT listing URL",
                   "show-me-how": "Show me how",
@@ -734,18 +734,18 @@
                     },
                   },
                 },
-                "window-title": "Pine | Pine Now Pay Later",
+                "window-title": "TREE | TREE Now Pay Later",
                 tabs: { pnpl: "PNPL", bidnpl: "BidNPL" },
               },
               bidnpl: {
-                "window-title": "Pine | BidNPL",
+                "window-title": "TREE | BidNPL",
                 tabs: { pnpl: "PNPL", bidnpl: "BidNPL" },
                 "select-collection": "Please select collection to see NFTs",
                 "action-search": "Search",
                 welcome:
                   "👋 Welcome to the BidNPL Portal (beta)! Here you will be able to see NFTs by collection.",
                 nfts: {
-                  "window-title": "Pine | BidNPL",
+                  "window-title": "TREE | BidNPL",
                   "no-nft": "There are no nfts in your account at the moment",
                   table: {
                     title: "NFTs <em>(</em>%{num}<em>)</em>",
@@ -759,30 +759,30 @@
                 },
               },
               staking: {
-                "window-title": "Pine | Governance",
-                "pine-balance": "Your Wallet $PINE Balance",
+                "window-title": "TREE | Governance",
+                "pine-balance": "Your Wallet $TREE Balance",
                 "pine-balance-tooltip":
-                  "PINE is the unit of account for the Pine Protocol. You can buy and sell PINE on the open market. Protocol incentives are paid in PINE.",
-                "buy-action": "Buy $PINE",
+                  "PINE is the unit of account for the TREE Protocol. You can buy and sell PINE on the open market. Protocol incentives are paid in PINE.",
+                "buy-action": "Buy $TREE",
                 staking: {
                   "apy-title":
-                    "Stake your $PINE - USDC LP tokens and earn rewards!",
-                  "est-apy-for-staking": "Est. APY For Staking $PINE",
-                  "current-pine-stake": "Current $PINE Staked",
-                  "your-pine-stake": "Your $PINE Staked",
+                    "Stake your $TREE - USDC LP tokens and earn rewards!",
+                  "est-apy-for-staking": "Est. APY For Staking $TREE",
+                  "current-pine-stake": "Current $TREE Staked",
+                  "your-pine-stake": "Your $TREE Staked",
                   "stake-action": "Stake",
                   "unstake-action": "Unstake",
-                  "est-apy-for-burning": "Est. APY For Burning $PINE",
+                  "est-apy-for-burning": "Est. APY For Burning $TREE",
                   "est-apy-for-burning-tooltip":
-                    "Soul-bound $PINE (sbPINE) is obtained by burning $PINE in the governance portal",
-                  "total-pine-burn": "Total $PINE Burnt",
-                  "your-pine-burn": "Your $PINE Burned",
-                  "burn-action": "Burn $PINE",
-                  "lp-token": "EST. APY for staking USDC-PINE LP Token",
+                    "Soul-bound $TREE (sbTREE) is obtained by burning $TREE in the governance portal",
+                  "total-pine-burn": "Total $TREE Burnt",
+                  "your-pine-burn": "Your $TREE Burned",
+                  "burn-action": "Burn $TREE",
+                  "lp-token": "EST. APY for staking USDC-TREE LP Token",
                   "total-liquidity-locket": "Total liquidity locked",
-                  "usdc-pine": "USDC-PINE LP in your wallet",
-                  "usdc-pine-staked": "USDC-PINE LP Staked",
-                  "pine-earned": "PINE Earned From LP Staking",
+                  "usdc-pine": "USDC-TREE LP in your wallet",
+                  "usdc-pine-staked": "USDC-TREE LP Staked",
+                  "pine-earned": "TREE Earned From LP Staking",
                   "get-lp-action": "Get LP Token",
                   "lp-stake-action": "Stake",
                   "lp-unstake-action": "Unstake",
@@ -792,16 +792,16 @@
                   "governance-share": "Your Governance Share",
                   "gov-balance": "Your Gov Balance",
                   "gov-balance-tooltip":
-                    "Governance balance = sbPine balance + vePine balance",
-                  "sb-pine-balance": "Your sbPINE Balance",
-                  "ve-pine-balance": "Your vePINE Balance",
-                  "get-sb-pine-action": "Get $sbPINE",
+                    "Governance balance = sbTREE balance + veTREE balance",
+                  "sb-pine-balance": "Your sbTREE Balance",
+                  "ve-pine-balance": "Your veTREE Balance",
+                  "get-sb-pine-action": "Get $sbTREE",
                   "open-proposal": "Open Proposals",
                   "vote-action": "Vote now!",
                   "vote-waring": "Voting in Progress!",
                 },
                 rewards: {
-                  "current-weekly-pine-reward": "Current Monthly $PINE Reward",
+                  "current-weekly-pine-reward": "Current Monthly $TREE Reward",
                   "current-epoch-reward": "Current Epoch Reward",
                   "current-age-ending": "Current Age Ending",
                   "current-epoch-ending": "Current Epoch Ending",
@@ -823,16 +823,16 @@
                 "my-governance": {
                   title: "GOV UNITS",
                   "title-hint":
-                    "sbPINE and vePINE are accounting units used for the PineDAO to quantify and manifest the loyalty of PINE holders. sbPINE and vePINE are equivalent unit, i.e. each sbPINE and vePINE represents 1 governance unit.",
-                  "sb-pine-balance": "Your sbPINE Balance",
-                  "pine-staked-balance": "PINE Staked Balance",
-                  "ve-pine-accrual-24h": "vePINE Accrual 24H",
+                    "sbTREE and veTREE are accounting units used for the TreeDAO to quantify and manifest the loyalty of TREE holders. sbPINE and vePINE are equivalent unit, i.e. each sbPINE and vePINE represents 1 governance unit.",
+                  "sb-pine-balance": "Your sbTREE Balance",
+                  "pine-staked-balance": "TREE Staked Balance",
+                  "ve-pine-accrual-24h": "veTREE Accrual 24H",
                   "ve-pine-accrual-24h-hint":
-                    "This is an estimate of the current daily accrual of vePINE based on the amount of PINE you have staked.",
-                  "ve-pine-balance": "Your vePINE Balance",
+                    "This is an estimate of the current daily accrual of veTREE based on the amount of TREE you have staked.",
+                  "ve-pine-balance": "Your veTREE Balance",
                   "gov-balance": "Your Gov Balance",
                   "gov-balance-hint":
-                    "Governance balance = sbPine balance + vePine balance",
+                    "Governance balance = sbTREE balance + veTREE balance",
                   actions: {
                     get: "GET",
                     manage: "MANAGE",
@@ -841,36 +841,36 @@
                     stake: "STAKE",
                   },
                   burn: {
-                    title: "Burn PINE",
-                    "sb-pine-balance": "Your sbPINE Balance",
-                    "pine-matic-balance": "PINE (Polygon) Balance",
+                    title: "Burn TREE",
+                    "sb-pine-balance": "Your sbTREE Balance",
+                    "pine-matic-balance": "TREE (Polygon) Balance",
                   },
                   manage: {
                     title: "Manage Staking",
-                    "pine-staked-balance": "PINE Staked Balance",
-                    "ve-pine-accrual-24h": "vePINE Accrual 24H",
+                    "pine-staked-balance": "TREE Staked Balance",
+                    "ve-pine-accrual-24h": "veTREE Accrual 24H",
                     "ve-pine-accrual-24h-hint":
-                      "This is an estimate of the current daily accrual of vePINE based on the amount of PINE you have staked.",
-                    "pine-balance": "Your PINE Balance",
-                    "pine-matic-balance": "PINE (Polygon) Balance",
+                      "This is an estimate of the current daily accrual of veTREE based on the amount of TREE you have staked.",
+                    "pine-balance": "Your TREE Balance",
+                    "pine-matic-balance": "TREE (Polygon) Balance",
                   },
                   modals: {
                     stake: {
-                      title: "Stake PINE",
+                      title: "Stake TREE",
                       balance: "Balance",
                       max: "Set Max",
                       action: "Stake",
                       "action-approve": "Approve",
                     },
                     unstake: {
-                      title: "Unstake PINE",
+                      title: "Unstake TREE",
                       balance: "Balance",
                       max: "Set Max",
                       action: "Unstake",
                       "action-approve": "Approve",
                     },
                     burn: {
-                      title: "Burn PINE",
+                      title: "Burn TREE",
                       balance: "Balance",
                       max: "Set Max",
                       action: "Burn",
@@ -881,7 +881,7 @@
                 "my-incentives": {
                   title: "PROTOCOL USAGE",
                   "title-hint":
-                    "Your current borrowing and lending activities on the Pine Protocol.",
+                    "Your current borrowing and lending activities on the TREE Protocol.",
                   "nft-collateral-value": "NFT Collaterals",
                   "nft-collateral-value-hint":
                     "The total value of NFTs, valued at floor price, that are being used as collateral for loans.",
@@ -902,9 +902,9 @@
                 "open-proposals": {
                   title: "OPEN PROPOSALS",
                   "pip-1":
-                    "[PIP-1] PINE Token Drop to Pine Pieces Genesis Holder",
+                    "[PIP-1] TREE Token Drop to TREE Pieces Genesis Holder",
                   "pip-2":
-                    "[PIP-2] Turning on Incentives for Pine Protocol Users for Age 1 / Epoch 4",
+                    "[PIP-2] Turning on Incentives for TREE Protocol Users for Age 1 / Epoch 4",
                   "no-proposals": "No Open Proposals",
                 },
                 mystery: {
@@ -919,34 +919,34 @@
                 },
                 information: {
                   rewards: "REWARDS",
-                  pine: "PINE",
+                  pine: "TREE",
                   "rewards-total-amount": "Estimated Accrued Rewards",
                   "rewards-total-amount-hint":
                     "The exact amount of rewards will be finalised at the end of the epoch. The protocol has full discretion to disqualify any rewards earned from illicit activities.",
                   "rewards-withdrawable": "Withdrawable",
-                  "pine-balance": "Your PINE Balance",
-                  "pine-eth-balance": "PINE (Ethereum) Balance",
-                  "pine-matic-balance": "PINE (Polygon) Balance",
+                  "pine-balance": "Your TREE Balance",
+                  "pine-eth-balance": "TREE (Ethereum) Balance",
+                  "pine-matic-balance": "TREE (Polygon) Balance",
                   "withdraw-action": "WITHDRAW",
                   "bridge-action": "BRIDGE",
                   "buy-action": "BUY",
                 },
                 "lp-pine": {
                   modal: {
-                    "stake-title": "Stake LP $PINE",
-                    "unstake-title": "UnStake LP $PINE",
+                    "stake-title": "Stake LP $TREE",
+                    "unstake-title": "UnStake LP $TREE",
                   },
                 },
                 pine: {
                   modal: {
-                    "stake-title": "Stake $PINE",
-                    "unstake-title": "UnStake $PINE",
+                    "stake-title": "Stake $TREE",
+                    "unstake-title": "UnStake $TREE",
                   },
                 },
               },
               geoBlock: {
                 description:
-                  "Pine is currently unavailable in your region, we apologize for the inconveniences. Please follow us on social media for the latest updates.",
+                  "TREE is currently unavailable in your region, we apologize for the inconveniences. Please follow us on social media for the latest updates.",
                 title: "Service Unavailable",
                 "window-title": "Service Unavailable",
               },
@@ -978,7 +978,7 @@
                 usdt: "USDT",
                 eth: "ETH",
                 wei: "WEI",
-                pine: "PINE",
+                pine: "TREE",
                 matic: "MATIC",
                 avax: "AVAX",
               },
@@ -1006,7 +1006,7 @@
                 withdrawable:
                   "Rewards earned are made withdrawable following a schedule. See whitepaper for more detail.",
                 "pine-header":
-                  "PINE is the unit of account for the Pine Protocol. You can buy and sell PINE on the open market. Protocol incentives are paid in PINE.",
+                  "TREE is the unit of account for the TREE Protocol. You can buy and sell TREE on the open market. Protocol incentives are paid in TREE.",
               },
               modals: {
                 "pnpl-instructions": {
@@ -1030,7 +1030,7 @@
                   "action-3": "Coinbase",
                 },
                 terms: {
-                  title: "Pine Terms of Service",
+                  title: "TREE Terms of Service",
                   description:
                     "In order to proceed, please take a moment to review our Terms of Service.",
                   "checkbox-label":
@@ -1173,7 +1173,7 @@
                   title: "Burning",
                   "amount-label": "Burning Amount",
                   "rewards-label": "Burning Rewards",
-                  approve: "Approve PINE",
+                  approve: "Approve TREE",
                   action: "Burn now",
                 },
                 "modify-exposure": {
@@ -1306,7 +1306,7 @@
                 ERR_UNSUPPORTED_BLOCKCHAIN_POLYGON:
                   "Please switch to Polygon network to proceed with this page.",
                 ERR_STAKE_WRONG_AMOUNT:
-                  "The amount must be more than 0 and less than or equal to the amount of vePINE you have.",
+                  "The amount must be more than 0 and less than or equal to the amount of veTREE you have.",
                 ERR_NETWORK_SWITCH_REQUEST_PENDING:
                   "There is already a network change request pending in your wallet. Please confirm the request or refresh this page and try again",
                 ERR_NOT_SUPPORT_SWITCH_NETWORK:
@@ -3397,7 +3397,7 @@
               return n({ amount: new Zt.Z(e), currency: "WEI" });
             }),
             (e.$PINE = function (e) {
-              return n({ amount: new Zt.Z(e), currency: "PINE" });
+              return n({ amount: new Zt.Z(e), currency: "TREE" });
             }),
             (e.$MATIC = function (e) {
               return n({ amount: new Zt.Z(e), currency: "MATIC" });
@@ -8897,7 +8897,7 @@
                 case "USDT":
                 case "USDC":
                   return i(e, n, s);
-                case "PINE":
+                case "TREE":
                   return r(e, n, s);
                 case "MATIC":
                 case "WMATIC":
@@ -8934,7 +8934,7 @@
                   return o(e.amount, t, n, s);
                 case "WEI":
                   return l(e.amount, t, n, s);
-                case "PINE":
+                case "TREE":
                   return r(e.amount, t, n, s);
                 case "AVAX":
                 case "WAVAX":
@@ -8960,7 +8960,7 @@
                   return t("currency.wei");
                 case "USD":
                   return t("currency.usd");
-                case "PINE":
+                case "TREE":
                   return t("currency.pine");
                 case "MATIC":
                   return t("currency.matic");
@@ -9265,7 +9265,7 @@
                     top: "-1px",
                   },
                 }
-              : "PINE" === e
+              : "TREE" === e
               ? {
                   markup: we,
                   style: {
@@ -31349,7 +31349,7 @@
                                 return (
                                   1 === (m = e.sent).status &&
                                     Vr.track("claimRewards", {
-                                      currency: "PINE",
+                                      currency: "TREE",
                                       value: o.unclaimedRewards.reduce(
                                         function (e, t) {
                                           return e + t.amount.amount.toNumber();
@@ -31926,7 +31926,7 @@
               }),
               l.createElement(Pd, {
                 title: p("staking.my-governance.modals.burn.title"),
-                currency: "PINE",
+                currency: "TREE",
                 minAmount: new Zt.Z(0),
                 maxAmount: a,
                 defaultAmount: new Zt.Z(0),
@@ -32296,7 +32296,7 @@
                           case 0:
                             T.track("stakePine", {
                               value: D,
-                              currency: "PINE",
+                              currency: "TREE",
                             }),
                               null == c || c(),
                               u();
@@ -32407,7 +32407,7 @@
               }),
               l.createElement(Pd, {
                 title: i,
-                currency: "PINE",
+                currency: "TREE",
                 minAmount: new Zt.Z(0),
                 maxAmount: s,
                 defaultAmount: new Zt.Z(0),
@@ -32634,7 +32634,7 @@
                           case 0:
                             v.track("unstakePine", {
                               value: C,
-                              currency: "PINE",
+                              currency: "TREE",
                             }),
                               null == c || c(),
                               u();
@@ -32747,7 +32747,7 @@
               }),
               l.createElement(Pd, {
                 title: a,
-                currency: "PINE",
+                currency: "TREE",
                 minAmount: new Zt.Z(0),
                 maxAmount: s,
                 defaultAmount: new Zt.Z(0),
@@ -32933,7 +32933,7 @@
                 k,
                 0
               ),
-              " PINE"
+              " TREE"
             ),
             We = "".concat(
               (
@@ -32958,7 +32958,7 @@
                 k,
                 0
               ),
-              " PINE"
+              " TREE"
             ),
             Je = "".concat(
               Wo.format$PINE(
@@ -32967,7 +32967,7 @@
                 k,
                 0
               ),
-              " PINE"
+              " TREE"
             ),
             Ke =
               new Zt.Z(null == de ? void 0 : de.toString())
@@ -32998,7 +32998,7 @@
                 void 0 !== i
                 ? i
                 : "--",
-              " PINE"
+              " TREE"
             ),
             rt = (0, l.useRef)(),
             ot = y().reduce(
@@ -33027,7 +33027,7 @@
                 k,
                 0
               ),
-              " PINE"
+              " TREE"
             ),
             at = ot.plus(
               new Zt.Z(
@@ -33275,7 +33275,7 @@
                         k,
                         2
                       ),
-                      " PINE"
+                      " TREE"
                     ),
                     actions: [
                       {
@@ -33454,7 +33454,7 @@
                       href: "https://snapshot.org/#/pineprotocol.eth",
                       target: "_blank",
                     },
-                    "PineDAO Snapshot"
+                    "TreeDAO Snapshot"
                   ),
                   l.createElement(
                     Nh,
@@ -33506,7 +33506,7 @@
                             k,
                             2
                           ),
-                          " PINE"
+                          " TREE"
                         ),
                         actions:
                           new Zt.Z(
@@ -33600,7 +33600,7 @@
                             k,
                             2
                           ),
-                          " PINE"
+                          " TREE"
                         ),
                       });
                     })
@@ -33712,7 +33712,7 @@
                             k,
                             2
                           ),
-                          " PINE"
+                          " TREE"
                         ),
                         actions: [
                           {
@@ -33741,7 +33741,7 @@
                                 k,
                                 2
                               ),
-                              " PINE"
+                              " TREE"
                             ),
                           },
                           {
@@ -33759,7 +33759,7 @@
                                 k,
                                 2
                               ),
-                              " PINE"
+                              " TREE"
                             ),
                           },
                         ],
@@ -33974,19 +33974,19 @@
               }
             )),
           gh = b.default.div.withConfig({
-            displayName: "StakingPine__StyledProposalHeader",
+            displayName: "StakingTREE__StyledProposalHeader",
             componentId: "sc-5h5bu6-5",
           })(["", " margin-bottom:2rem;"], function (e) {
             return v.container.fhts;
           }),
           bh = b.default.span.withConfig({
-            displayName: "StakingPine__StyledProposalContent",
+            displayName: "StakingTREE__StyledProposalContent",
             componentId: "sc-5h5bu6-6",
           })(["", ""], function (e) {
             return e.theme.texts.p2;
           }),
           wh = b.default.div.withConfig({
-            displayName: "StakingPine__StyledTitle",
+            displayName: "StakingTREE__StyledTitle",
             componentId: "sc-5h5bu6-7",
           })(
             [
@@ -34010,13 +34010,13 @@
             }
           ),
           Eh = b.default.div.withConfig({
-            displayName: "StakingPine__StyledProposalButtonContainer",
+            displayName: "StakingTREE__StyledProposalButtonContainer",
             componentId: "sc-5h5bu6-8",
           })(["", " text-align:center;gap:.5rem;"], function (e) {
             return v.container.fvsr;
           }),
           Th = b.default.span.withConfig({
-            displayName: "StakingPine__StyledWarning",
+            displayName: "StakingTREE__StyledWarning",
             componentId: "sc-5h5bu6-9",
           })(
             ["", " color:", ";"],
@@ -34029,7 +34029,7 @@
           ),
           Nh =
             (b.default.div.withConfig({
-              displayName: "StakingPine__StyledHeader",
+              displayName: "StakingTREE__StyledHeader",
               componentId: "sc-5h5bu6-10",
             })(
               [
@@ -34045,7 +34045,7 @@
               }
             ),
             b.default.a.withConfig({
-              displayName: "StakingPine__StyledLink",
+              displayName: "StakingTREE__StyledLink",
               componentId: "sc-5h5bu6-11",
             })(["text-decoration:underline;"]));
         function kh() {
@@ -36235,10 +36235,10 @@
           Ug = "c7597d77bdd894f7c3ca1109f63bf477",
           Wg = (0, eg.a3)([
             {
-              groupName: "Pine - Instant NFT Loans",
+              groupName: "TREE - Instant NFT Loans",
               wallets: [
                 (0, ng.P)({ projectId: Ug, chains: Fg }),
-                (0, rg.D)({ chains: Fg, appName: "Pine - Instant NFT Loans" }),
+                (0, rg.D)({ chains: Fg, appName: "TREE - Instant NFT Loans" }),
                 (0, og.D)({ projectId: Ug, chains: Fg }),
                 (function (e) {
                   var t,
